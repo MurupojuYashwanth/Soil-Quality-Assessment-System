@@ -51,13 +51,13 @@ pip install numpy pandas matplotlib seaborn scikit-learn joblib
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/ManchalaSrinithin/soil-quality-assessment-system.git
+   git clone https://github.com/MurupojuYashwanth/Soil-Quality-Assessment-System.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd soil-quality-assessment-system
+   cd Soil-Quality-Assessment-System
    ```
 
 3. **Open the Jupyter Notebook or Google Colab**
