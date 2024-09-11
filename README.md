@@ -92,7 +92,7 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Contact
 
-For any questions or issues, please contact [Srinithin Manchala](mailto:srinithin17.com).
+For any questions or issues, please contact [Murupoju Yashwanth Kumar](mailto:murupojuyashwanth@gmail.com).
 
 
 ### Key Points to Note:
